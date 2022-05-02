@@ -1,0 +1,23 @@
+{
+  "name": "react-native-switch",
+  "version": "1.0.0",
+  "description": "A command line script that will comment and uncomment imports so you can use react and react-native components interchangeably.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "code",
+    "switching",
+    "web",
+    "mobile",
+    "workflow"
+  ],
+  "author": "Daniel Coyle",
+  "license": "ISC",
+  "dependencies": {
+    "n-readlines": "^1.0.1"
+  }
+}
